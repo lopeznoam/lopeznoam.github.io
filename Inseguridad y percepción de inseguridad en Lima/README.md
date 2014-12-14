@@ -30,12 +30,13 @@
 
  About the folder
 
-	Composite indicators - This folder contains the composite indicators for each disctric of Lima using EFA.
-	
 	Data information - Contains questionaires and the sample design of the databases of IOP from 2007-2010. 
 	
 	Database - Contains four databases elaborated by the Public Opinion Institute of the Pontifical Catholic
 	University of Peru. These are also free to download here www.iop-data.pucp.edu.pe.
 	
 	Script - This research mainly was made using RStudio (www.rstudio.com) an editor of R (www.r-project.org),
-	a free software programming language and software environment for statistical computing and graphics.
+	a free software programming language and software environment for statistical computing and graphics. The
+	whole script to elaborate the composite indicators using EFA is here.
+	
+	Composite indicators - This folder contains the composite indicators for each disctric of Lima using EFA.
