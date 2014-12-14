@@ -2,15 +2,14 @@
 
 #                       Instituto de Opinión Pública-PUCP
 #
-#       Inseguridad y percepción de inseguridad en Lima Metropolitana 
+#          Inseguridad y percepción de inseguridad en Lima, Perú 
 #
 #                            Noam López Villanes 
 #                            
 #                  Pontificia Universidad Católica del Perú
 #                            
 #    Citar así: López, Noam (2013) Inseguridad y percepción de inseguridad 
-#    en Lima Metropolitana. Serie Cuadernos de Investigación IOP. 
-#    Lima: IOP - PUCP.
+#    en Lima, Perú. Serie Cuadernos de Investigación IOP. Lima: IOP - PUCP.
 #
 #    E-mail: lopez.noam@pucp.pe
 #
