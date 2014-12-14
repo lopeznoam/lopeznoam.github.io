@@ -1,6 +1,9 @@
 
-	"Insecurity and Perception of Insecurity in Lima, Peru" is a working paper published in "Cuadernos de Investigación",
-	a  working papers series of the Public Opinion Institute of the Pontifical Catholic University of Peru.
+ About
+ 
+	"Insecurity and Perception of Insecurity in Lima, Peru" is a working paper published in "Cuadernos de 
+	Investigación", a  working papers series of the Public Opinion Institute of the Pontifical Catholic
+	University of Peru.
 
  Abstract
  
