@@ -25,8 +25,8 @@
 
  How to cite
  
-	López, Noam. 2013. Insecurity and Perception of Insecurity in Lima, Peru. Serie Cuadernos de Investigación IOP.
-	Lima: IOP – PUCP. 
+	López, Noam. 2013. Insecurity and Perception of Insecurity in Lima, Peru. Serie Cuadernos de Investigación
+	IOP. Lima: IOP – PUCP. 
 
  About the folder
 
